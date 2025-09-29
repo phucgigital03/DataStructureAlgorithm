@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/projectCode.iml" filepath="$PROJECT_DIR$/.idea/projectCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/section3_ArrayPracticeProblemFromLeetCode/section3_ArrayPracticeProblemFromLeetCode.iml" filepath="$PROJECT_DIR$/section3_ArrayPracticeProblemFromLeetCode/section3_ArrayPracticeProblemFromLeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/section4_SortingPracticeProblem/section4_SortingPracticeProblem.iml" filepath="$PROJECT_DIR$/section4_SortingPracticeProblem/section4_SortingPracticeProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section5_LinkedList/section5_LinkedList.iml" filepath="$PROJECT_DIR$/section5_LinkedList/section5_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section6_HashTable/section6_HashTable.iml" filepath="$PROJECT_DIR$/section6_HashTable/section6_HashTable.iml" />
     </modules>
   </component>
 </project>
