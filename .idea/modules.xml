@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/projectCode.iml" filepath="$PROJECT_DIR$/.idea/projectCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/section10_TwoPointer/section10_TwoPointer.iml" filepath="$PROJECT_DIR$/section10_TwoPointer/section10_TwoPointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section10_ArrayPattern_TwoPointer/section10_ArrayPattern_TwoPointer.iml" filepath="$PROJECT_DIR$/section10_ArrayPattern_TwoPointer/section10_ArrayPattern_TwoPointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/section3_ArrayPracticeProblemFromLeetCode/section3_ArrayPracticeProblemFromLeetCode.iml" filepath="$PROJECT_DIR$/section3_ArrayPracticeProblemFromLeetCode/section3_ArrayPracticeProblemFromLeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/section4_SortingPracticeProblem/section4_SortingPracticeProblem.iml" filepath="$PROJECT_DIR$/section4_SortingPracticeProblem/section4_SortingPracticeProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/section5_LinkedList/section5_LinkedList.iml" filepath="$PROJECT_DIR$/section5_LinkedList/section5_LinkedList.iml" />
